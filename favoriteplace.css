@@ -1,0 +1,107 @@
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+    background-color:#2026B2;
+}
+
+.img{
+    float: right;
+    width: 450px;
+}
+
+.img{
+    margin-right: 140px;
+}
+
+header span{
+    color:#F76253;
+}
+
+header{
+    font-size: 40px;
+    color:white;
+    padding:40px;
+   
+}
+
+header a{
+    font-size:20px;
+    color:rgba(255, 255, 255, 0.63);
+    text-decoration: none;
+    margin-left:430px;
+}
+
+header a{
+    margin-right: -400px;
+}
+
+header a:hover{
+    background:#F76253;
+    color: white;
+    border-radius:5px;
+    padding:5px;
+    transition:0.5s;
+}
+
+header span:hover{
+    color:white;
+}
+
+.coron{
+    text-align: center;
+    font-size: 40px;
+}
+
+.rectangle{
+    background-color: #F76253;
+    height: 3px;
+    width: 265px;
+}
+.rectangle{
+    float: left;
+    margin-left: 495px;
+    margin-top: -30px;
+}
+
+.bohol{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.rectangle1{
+    background-color: #F76253;
+    height: 3px;
+    width: 215px;
+}
+.rectangle1{
+    float: left;
+    margin-left: 520px;
+    margin-top: -30px;
+}
+
+.boracay{
+    text-align: center;
+    font-size: 40px;
+}
+
+.rectangle2{
+    background-color: #F76253;
+    height: 3px;
+    width: 265px;
+}
+.rectangle2{
+    float: left;
+    margin-left: 495px;
+    margin-top: -30px;
+}
+
+
+
+p{
+    font-size: 25px;
+    text-align: justify;
+ 
+}

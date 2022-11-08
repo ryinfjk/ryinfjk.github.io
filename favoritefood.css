@@ -1,0 +1,156 @@
+
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+    background-color:#2026B2;
+}
+
+.img{
+    float: right;
+    width: 450px;
+}
+
+.img{
+    margin-right: 140px;
+}
+
+header span{
+    color:#F76253;
+}
+
+header{
+    font-size: 40px;
+    color:white;
+    padding:40px;
+   
+}
+
+header a{
+    font-size:20px;
+    color:rgba(255, 255, 255, 0.63);
+    text-decoration: none;
+    margin-left:430px;
+}
+
+header a{
+    margin-right: -400px;
+}
+
+header a:hover{
+    background:#F76253;
+    color: white;
+    border-radius:5px;
+    padding:5px;
+    transition:0.5s;
+
+}
+
+header span:hover{
+    color:white;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    width: 385px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 40px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 385px;
+    height: 340px;
+
+  }
+
+
+  p{
+    text-align: center;
+    color:#2026B2;
+    font-size: 25px;    
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    color: #2026B2;
+    font-size: 18px;
+    text-align: justify;
+  }
+
+
+  .desc1{
+    padding: 15px;
+    text-align: center;
+    color: #2026B2;
+    font-size: 14px;
+    text-align: justify;
+    height: 91px;
+  }
+
+
+  .pizza{
+    padding: 15px;
+    text-align: center;
+    color: #2026B2;
+    font-size: 12px;
+    text-align: justify;
+    height: 91px;
+  }
+
+  div .burger{
+    padding: 15px;
+    text-align: center;
+    color: #2026B2;
+    font-size: 12px;
+    text-align: justify;
+    height: 91px;
+  }
+
+  
+
+div.gallery1 {
+    margin: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    float: right;
+    width: 385px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 40px;
+  }
+  
+  div.gallery1:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery1 img {
+    width: 385px;
+    height: 340px;
+  }
+
+
+  div.gallery2 {
+    margin: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    width: 385px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 40px;
+  }
+  
+  div.gallery2:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery2 img {
+    width: 385px;
+    height: 340px;
+  }
+
+  

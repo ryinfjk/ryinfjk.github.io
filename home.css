@@ -1,0 +1,355 @@
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+    background-color:#2026B2;
+}
+
+.img{
+    float: right;
+    width: 450px;
+}
+
+.img{
+    margin-right: 140px;
+}
+
+header span{
+    color:#F76253;
+}
+
+header{
+    font-size: 40px;
+    color:white;
+    padding:40px;
+   
+}
+
+header a{
+    font-size:20px;
+    color:rgba(255, 255, 255, 0.63);
+    text-decoration: none;
+    margin-left:430px;
+}
+
+header a{
+    margin-right: -400px;
+}
+
+.intro{
+    color:white;
+    font-size: 30px;
+    margin-left:40px;
+    margin-top: 100px;
+}
+
+div a{
+    color:white;
+    font-size:60px;
+    text-decoration: none;
+}
+
+div span{
+    color:#F76253;
+}
+
+.text{
+    font-size:20px;
+    color:white;
+}
+
+.text1{
+    font-size:20px;
+    color:rgba(255, 255, 255, 0.651);
+}
+
+.contact{
+    background-color: #F76253;
+    color: white;
+    border: none;
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 25px;
+    width: 100px; 
+}
+
+.Download{
+    background-color: #F76253;
+    color: white;
+    border: none;
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 25px;
+    width: 150px; 
+    float: right;
+    margin-right: 640px;
+    margin-top: -100px;
+}
+
+
+.instagram{
+    width: 40px;
+    margin-bottom: 30px;
+}
+
+.facebook{
+    width: 40px;
+    margin-bottom: 30px;
+}
+
+.twitter{
+    width: 40px;
+    margin-bottom: 30px;
+}
+
+.linkedin{
+    width: 30px;
+}
+
+
+ .linkedin{
+    margin-bottom: 35px;
+}
+
+.img2{
+    margin-top: 30px;
+}
+
+
+.img3{
+
+    width: 550px;
+    margin-top: 20px;
+}
+
+.img3{
+    margin-right: 140px;
+}
+
+.aboutme{
+    color:white;
+    font-size: 38px;
+    float:right;
+    margin-right: 410px;
+    margin-top: 20px;
+}
+
+.text2{
+    color:white;
+    font-size: 20px;
+    float: right;
+    width: 700px;
+    margin-right: 90px;
+    margin-top: -370px;
+}
+
+.skills{
+    width: 1300px;
+    height: 400px;
+}
+
+.mskills{
+    color:white;
+    font-size: 38px;
+    margin-left: 300px;
+}
+
+.rectangle {
+    height: 60px;
+    width: 550px;
+    background-color: white;
+    margin-left: 90px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.rectangle1 {
+    height: 10px;
+    width: 390px;
+    background-color:#F76253;
+    margin-left: 90px;
+    border-radius: 5px;
+    margin-top: -290px;
+}
+
+.rectangle2 {
+    height: 10px;
+    width: 420px;
+    background-color:#F76253;
+    margin-left: 90px;
+    border-radius: 5px;
+    margin-top:100px;
+}
+
+.rectangle3 {
+    height: 10px;
+    width: 410px;
+    background-color:#F76253;
+    margin-left: 90px;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+
+.rectangle4 {
+    height: 10px;
+    width: 440px;
+    background-color:#F76253;
+    margin-left: 90px;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+
+.img4{
+    float: right;
+    width: 390px;
+    margin-right: 160px;
+    margin-top: -350px;
+}
+
+.r1{
+    color:black;
+    font-size: 20px;
+}
+
+.r1{
+    margin-top: -45px;
+    margin-left: 100px;
+}
+
+.r1 span{
+    color:black;
+    margin-left: 320px;
+}
+
+
+
+
+
+
+.r2{
+    color:black;
+    font-size: 20px;
+}
+
+.r2{
+    margin-top: -45px;
+    margin-left: 100px;
+}
+
+.r2 span{
+    color:black;
+    margin-left: 290px;
+}
+
+
+
+
+
+.r3{
+    color:black;
+    font-size: 20px;
+}
+
+.r3{
+    margin-top: -45px;
+    margin-left: 100px;
+}
+
+.r3 span{
+    color:black;
+    margin-left: 325px;
+}
+
+
+
+
+
+
+.r4{
+    color:black;
+    font-size: 20px;
+}
+
+.r4{
+    margin-top: -45px;
+    margin-left: 100px;
+}
+
+.r4 span{
+    color:black;
+    margin-left: 330px;
+}
+
+.ft{
+    margin-top: 650px;
+    background-color:#F76253;
+    height: 50px;
+}
+
+.ft{
+    color: white;
+    text-align: center;
+    font-size: 19px;
+}
+
+.footer{
+    color: white;
+    padding: 150px;
+}
+
+
+.navbar-brand{
+    color: white;
+}
+
+
+header a:hover{
+    background:#F76253;
+    color: white;
+    border-radius:5px;
+    padding:5px;
+    transition:0.5s;
+
+}
+
+button:hover{
+    background-color: white;
+    color:black;
+    transition: 0.5s;
+    
+}
+
+.instagram:hover{
+    background-color: #F76253;
+    border-radius: 10px;
+    transition: 0.5s;
+    width: 45px;
+}
+
+.facebook:hover{
+    background-color: #F76253;
+    border-radius: 10px;
+    transition: 0.5s;
+    width: 45px;
+}
+
+.twitter:hover{
+    background-color: #F76253;
+    border-radius: 10px;
+    transition: 0.5s;
+    width: 45px;
+}
+
+.linkedin:hover{
+    background-color: #F76253;
+    border-radius: 10px;
+    transition: 0.5s;
+    width: 45px;
+}
+
+header span:hover{
+    color:white;
+}
